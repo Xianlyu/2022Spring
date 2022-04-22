@@ -46,7 +46,7 @@
 
 3. 人们缺乏相关的知识: Lack of knowledge related to ..., people ...
 
-结果可以说：【但在具体情境里貌似这些模板都作废了】
+结果可以说：【但在具体情境里貌似这个模板也作废了】
 
 1. 政府。There is not sufficient supervision and punishment
 2.  个人。 people can't distinguish...
