@@ -21,3 +21,13 @@
 
 1.  form a constructive study atmosphere. 遇到困难有人帮忙一起解决； 不容易沉迷游戏
 2. master more solid knowledge & skills. 遇到问题只是自己解决->浪费时间;  可以学到不同的方法 (learn different methods & weigh advantages and disadvantages of them). 
+
+
+
+20220424上课
+
+I came to RUC with aspiration, anticipation and ambition
+
+Studies serve for delight, for ornament, and for ability
+
+We can gain knowledge by reading, be relection, by observation or by practice.
