@@ -2,9 +2,7 @@
 
 关键词
 
-
-
-
+garbage classification, pollution, haze
 
 ------
 
@@ -12,7 +10,15 @@
 
 ![](environment_protection1.jpg)
 
+原因：
 
+1. 人们缺乏垃圾分类相关的知识 lack of knowledge ，举例 recyclables, recyclables, harmful trash
+2. 政府缺乏相关的监管  there is not sufficient supervision or regulations
+
+结果：
+
+1. 分错类。 people mis classify the garbage -> the classification policy doesn't make sense -> cause trouble to classification workers因为需要时间去重新分类
+2. 传播疾病。医疗垃圾（medical waste），spread the disease
 
 ------
 
