@@ -13,7 +13,7 @@
 - more and more -> a growing # of / an increasing # of
 - good -> positive, beneficial, desirable
 - bad -> negative, detrimental, harmful, destructive
-- for example -> for instance, sb. is a case in point / take ..., sb., as an example
+- **for example -> for instance, sb. is a case in point / take ..., sb., as an example**
 - from my perspective -> to my best knowledge/ to my best understanding/ from my standpoint
 - 行文结构的一些表达： In the first place; In the second place; In the third place/ To begin with; Moreover; Furthermore/ For one thing; for another
 - think -> argue/ hold/ maintain
@@ -53,8 +53,8 @@
 
 建议可以说：
 
-1. 政府。 The government is supposed to enforce the laws more strictly.
-2. 媒体。The media needs to expose such kind of behaviors.
-3. 学校。Schools have the responsibility to enhance the education about...
-4. 个人。 must/ have to [e.g. The producers and sellers must/ have to obey the laws and respect individuals' life safety/ give priority to people's safety.]
+1. 政府。 The government **is supposed to enforce** the laws more strictly.
+2. 媒体。The media **needs to** expose such kind of behaviors.
+3. 学校。Schools **have the responsibility to** enhance the education about...
+4. 个人。 **must/ have to** [e.g. The producers and sellers must/ have to obey the laws and respect individuals' life safety/ give priority to people's safety.]
 
