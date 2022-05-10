@@ -20,4 +20,4 @@ The following approaches, **from my perspective,** can **be employed to** **addr
 
 **The other side of the coin, however, can never be ignored.** **In the first place**, they may affect the traffic. As some people put these bikes anywhere, they often block the road. **In the second,** there can be a waste of resources. We may often find that some bikes are damaged or even stolen.
 
-**From my standpoint, it is sensible that we take a rational attitude towards this phenomenon.** **One the one hand, they may produce some benefits. On the other hand, there can be some problems involved.** The government is supposed to enforce relative regulations more strictly. We are advised to use them properly and protect them from damage.
+**From my standpoint, it is sensible that we take a rational attitude towards this phenomenon.** **On the one hand, they may produce some benefits. On the other hand, there can be some problems involved.** The government is supposed to enforce relative regulations more strictly. We are advised to use them properly and protect them from damage.
